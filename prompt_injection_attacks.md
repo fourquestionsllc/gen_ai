@@ -1,7 +1,5 @@
 ### Securing Prompt Engineering Pipelines: Mitigating Prompt Injection Attacks with Guardrails and PromptInject
 
-**By [Your Name] | Published: [Date]**
-
 ---
 
 In the era of AI-driven applications, generative AI models like GPT, Claude, and Mistral have transformed natural language processing capabilities. However, with these advancements comes a new class of security threats: **prompt injection attacks**. These attacks exploit vulnerabilities in prompts to manipulate outputs, potentially leading to the leakage of sensitive data or harmful outputs. In this blog, we’ll explore how to secure your prompt engineering pipelines using tools like **Guardrails** and **PromptInject** through an end-to-end example.
